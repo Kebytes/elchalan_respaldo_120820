@@ -1,0 +1,446 @@
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\ChalanWeb.dll.config
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\ChalanWeb.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\ChalanWeb.pdb
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\csc.exe
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\csc.exe.config
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\csc.rsp
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\csi.exe
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\csi.exe.config
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\csi.rsp
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Console.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\vbc.exe
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\vbc.exe.config
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\vbc.rsp
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Antlr3.Runtime.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Newtonsoft.Json.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\System.Web.Optimization.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\WebGrease.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\System.Web.Optimization.xml
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Newtonsoft.Json.xml
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csproj.CoreCompileInputs.cache
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csproj.CopyComplete
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.dll
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.pdb
+C:\Users\Wookie E\source\repos\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\ChalanWeb.dll.config
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\ChalanWeb.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\ChalanWeb.pdb
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csc.exe
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csc.exe.config
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csc.rsp
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csi.exe
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csi.exe.config
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csi.rsp
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Console.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\vbc.exe
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\vbc.exe.config
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\vbc.rsp
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Antlr3.Runtime.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Newtonsoft.Json.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\System.Web.Optimization.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\WebGrease.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\System.Web.Optimization.xml
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Newtonsoft.Json.xml
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csproj.CopyComplete
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.dll
+C:\Users\hp\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.pdb
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\ChalanWeb.dll.config
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\ChalanWeb.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\ChalanWeb.pdb
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csc.exe
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csc.exe.config
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csc.rsp
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csi.exe
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csi.exe.config
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\csi.rsp
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Console.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\vbc.exe
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\vbc.exe.config
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\vbc.rsp
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Antlr3.Runtime.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Newtonsoft.Json.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\System.Web.Optimization.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\WebGrease.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\System.Web.Optimization.xml
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Newtonsoft.Json.xml
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csprojAssemblyReference.cache
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csproj.CoreCompileInputs.cache
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.csproj.CopyComplete
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.dll
+C:\Users\Wookie E\Downloads\ChalanWeb\ChalanWeb\obj\Debug\ChalanWeb.pdb
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.dll.config
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.pdb
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.exe
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.exe.config
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.rsp
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.exe
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.exe.config
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.rsp
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Console.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.exe
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.exe.config
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.rsp
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Antlr3.Runtime.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Optimization.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\WebGrease.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Optimization.xml
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csproj.CopyComplete
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.dll
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.pdb
+C:\Users\hp\Documents\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csprojAssemblyReference.cache
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.dll.config
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.pdb
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.exe
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.exe.config
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.rsp
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.exe
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.exe.config
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.rsp
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Console.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.exe
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.exe.config
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.rsp
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Antlr3.Runtime.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Newtonsoft.Json.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Optimization.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\WebGrease.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Optimization.xml
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Newtonsoft.Json.xml
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csprojAssemblyReference.cache
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csproj.CoreCompileInputs.cache
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csproj.CopyComplete
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.dll
+C:\Users\Wookie E\Downloads\Nueva carpeta (8)\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.pdb
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.dll.config
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\ChalanWeb.pdb
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.exe
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.exe.config
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csc.rsp
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.exe
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.exe.config
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\csi.rsp
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Console.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.exe
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.exe.config
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\vbc.rsp
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Antlr3.Runtime.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\RestSharp.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Http.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Optimization.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\WebGrease.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\RestSharp.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Http.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\System.Web.Optimization.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csprojAssemblyReference.cache
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.csproj.CopyComplete
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.dll
+C:\Users\hp\Documents\chalanlive2\ChalanWeb 11 Junio\ChalanWeb\obj\Debug\ChalanWeb.pdb

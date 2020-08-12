@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ChalanConString-Web.config Connection String" description="ChalanConString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=13.65.200.48; Initial Catalog=chalanDB; User ID=ChalanUser; Password=DJCDJH489274/-.3$" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\hp\\Documents\\chalanlive2\\ChalanWeb\ 11\ Junio\\ChalanWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChalanConString']/@connectionString" />
+  </parameter>
+</parameters>

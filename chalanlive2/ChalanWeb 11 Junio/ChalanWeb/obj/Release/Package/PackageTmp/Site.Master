@@ -1,0 +1,1042 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ChalanWeb.SiteMaster" %>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="Scripts/jquery.creditCardValidator.js"></script>
+
+    <title>El Chalán Licores</title>
+
+    <meta name="keywords" content="Chalán, Licores, Alcohol, Cerveza, Cheve, Envio, Mexico, Nacional, Pisto, Beer, Servicio, Domicilio" />
+    <meta name="description" content="El Chalán Licores y Cerveza">
+    <meta name="author" content="SW-THEMES">
+
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+
+        /* Modal Content */
+        .modal-content {
+            position: relative;
+            background-color: #fefefe;
+            margin: auto;
+            padding: 0;
+            border: 1px solid #888;
+            width: 80%;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+            -webkit-animation-name: animatetop;
+            -webkit-animation-duration: 0.4s;
+            animation-name: animatetop;
+            animation-duration: 0.4s
+        }
+
+        /* Add Animation */
+        @-webkit-keyframes animatetop {
+            from {
+                top: -300px;
+                opacity: 0
+            }
+
+            to {
+                top: 0;
+                opacity: 1
+            }
+        }
+
+        @keyframes animatetop {
+            from {
+                top: -300px;
+                opacity: 0
+            }
+
+            to {
+                top: 0;
+                opacity: 1
+            }
+        }
+
+        /* The Close Button */
+        .close {
+            color: white;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+            .close:hover,
+            .close:focus {
+                color: #000;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+        .modal-header {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }
+
+        .modal-body {
+            padding: 2px 16px;
+        }
+
+        .modal-footer {
+            padding: 2px 16px;
+            background-color: #5cb85c;
+            color: white;
+        }
+    </style>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="assets/images/icons/favicon.ico">
+
+    <script type="text/javascript">
+        WebFontConfig = {
+            google: { families: ['Open+Sans:300,400,600,700,800', 'Poppins:300,400,500,600,700', 'Segoe Script:300,400,500,600,700'] }
+        };
+        (function (d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'assets/js/webfont.js';
+            wf.async = true;
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    </script>
+
+    <style>
+        .product-action .btn-add-cart {
+            width: auto !important;
+        }
+    </style>
+
+
+
+    <!-- Plugins CSS File -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+    <!-- Main CSS File -->
+    <link rel="stylesheet" href="assets/css/style.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/fontawesome-free/css/all.min.css">
+</head>
+<body>
+    <div class="page-wrapper">
+        <header class="header">
+            <%--            <div class="header-top">
+                <div class="container">
+                    <div class="header-left header-dropdowns">
+                        <div class="header-dropdown">
+                            <a href="#">USD</a>
+                            <div class="header-menu">
+                                <ul>
+                                    <li><a href="#">EUR</a></li>
+                                    <li><a href="#">USD</a></li>
+                                </ul>
+                            </div><!-- End .header-menu -->
+                        </div><!-- End .header-dropown -->
+
+                        <div class="header-dropdown">
+                            <a href="#"><img src="assets/images/flags/en.png" alt="England flag">ENGLISH</a>
+                            <div class="header-menu">
+                                <ul>
+                                    <li><a href="#"><img src="assets/images/flags/en.png" alt="England flag">ENGLISH</a></li>
+                                    <li><a href="#"><img src="assets/images/flags/fr.png" alt="France flag">FRENCH</a></li>
+                                </ul>
+                            </div><!-- End .header-menu -->
+                        </div><!-- End .header-dropown -->
+
+                        <div class="dropdown compare-dropdown">
+                            <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
+                                <i class="icon-retweet"></i> Compare (2)
+                            </a>
+
+                            <div class="dropdown-menu" >
+                                <div class="dropdownmenu-wrapper">
+                                    <ul class="compare-products">
+                                        <li class="product">
+                                            <a href="#" class="btn-remove" title="Remove Product"><i class="icon-cancel"></i></a>
+                                            <h4 class="product-title"><a href="product.html">Lady White Top</a></h4>
+                                        </li>
+                                        <li class="product">
+                                            <a href="#" class="btn-remove" title="Remove Product"><i class="icon-cancel"></i></a>
+                                            <h4 class="product-title"><a href="product.html">Blue Women Shirt</a></h4>
+                                        </li>
+                                    </ul>
+
+                                    <div class="compare-actions">
+                                        <a href="#" class="action-link">Clear All</a>
+                                        <a href="#" class="btn btn-primary">Compare</a>
+                                    </div>
+                                </div><!-- End .dropdownmenu-wrapper -->
+                            </div><!-- End .dropdown-menu -->
+                        </div><!-- End .dropdown -->
+                    </div><!-- End .header-left -->
+
+                    <div class="header-right">
+                        <p class="welcome-msg">Default welcome msg! </p>
+
+                        <div class="header-dropdown dropdown-expanded">
+                            <a href="#">Links</a>
+                            <div class="header-menu">
+                                <ul>
+                                    <li><a href="my-account.html">MY ACCOUNT </a></li>
+                                    <li><a href="#">DAILY DEAL</a></li>
+                                    <li><a href="#">MY WISHLIST </a></li>
+                                    <li><a href="blog.html">BLOG</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="#" class="login-link">LOG IN</a></li>
+                                </ul>
+                            </div><!-- End .header-menu -->
+                        </div><!-- End .header-dropown -->
+                    </div><!-- End .header-right -->
+                </div><!-- End .container -->
+            </div><!-- End .header-top -->--%>
+
+            <script type="text/javascript">
+                var modal = document.getElementById("myModal");
+
+                // Get the button that opens the modal
+                var btn = document.getElementById("myBtn");
+
+                // Get the <span> element that closes the modal
+                var span = document.getElementsByClassName("close")[0];
+
+                // When the user clicks the button, open the modal 
+                btn.onclick = function () {
+                    modal.style.display = "block";
+                }
+
+                // When the user clicks on <span> (x), close the modal
+                span.onclick = function () {
+                    modal.style.display = "none";
+                }
+
+                // When the user clicks anywhere outside of the modal, close it
+                window.onclick = function (event) {
+                    if (event.target == modal) {
+                        modal.style.display = "none";
+                    }
+                }
+            </script>
+
+            <script type="text/javascript">
+                function ConfirmLogout() {
+                    var confirmLogout = confirm("¿Estás seguro de cerrar sesión?");
+                    if (confirmLogout)
+                        window.location.replace("Logout.aspx");
+                }
+            </script>
+
+
+
+            <script type="text/javascript">
+                function formAction() {
+                    var TestVar = document.getElementById('termino').value;
+                    var ir = "Categoria?term=";
+                    var final = ir.concat(TestVar);
+                    window.location.replace(final);
+                    return false;
+                    //alert(final);
+                    //document.newForm.action = final;              
+                }
+            </script>
+            <script>
+
+                function Buscar() {
+
+                    var busqueda = document.getElementById('q').value;
+                    alert(busqueda);
+                    busqueda = 'Categoria?termino=' + busqueda;
+                    alert(busqueda);
+                    window.location.href = "/login.html";
+                    //location.href(busqueda);
+
+
+                }
+            </script>
+
+
+            <div class="header-middle">
+                <div class="container">
+                    <div class="header-left">
+                        <a href="Default" class="logo">
+                            <img src="assets/images/logo.png" alt="El Chalán">
+                        </a>
+                    </div>
+                    <!-- End .header-left -->
+
+                    <div class="header-center">
+                        <div class="header-search">
+                            <a href="#" class="search-toggle" role="button"><i class="icon-magnifier"></i></a>
+                            <form name="Forma" method="get" onsubmit="return formAction()">
+                                <div class="header-search-wrapper">
+                                    <input type="search" class="form-control" name="termino" id="termino" placeholder="Busca tu bebida favorita..." required>
+                                    
+                                    <button class="btn" type="submit"><i class="icon-magnifier"></i></button>
+                                </div>
+                                <!-- End .header-search-wrapper -->
+                            </form>
+                        </div>
+
+
+                        <!-- asdasdfyghjksdhaskjhdskajhdjkashjkdshashaskhdsjkhjkaasdjk-->
+
+                        <!-- End .header-search -->
+                    </div>
+                    <!-- End .headeer-center -->
+
+                    <div class="header-right">
+                        <button class="mobile-menu-toggler" type="button">
+                            <i class="icon-menu"></i>
+                        </button>
+                        <div class="header-contact">
+                            <span>Te atendemos por whatsapp</span>
+                            <a href="https://api.whatsapp.com/send?phone=8711242526" target="_blank"><strong>+52 1 871 124 2526</strong></a>
+                        </div>
+                        <!-- End .header-contact -->
+
+                        <div class="dropdown cart-dropdown">
+                            <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
+                                <span class="cart-count">
+                                    <asp:Literal ID="LiteralCuentaIcono" runat="server" Text="0"></asp:Literal></span>
+                            </a>
+
+                            <div class="dropdown-menu">
+                                <div class="dropdownmenu-wrapper">
+                                    <div class="dropdown-cart-header">
+                                        <span>
+                                            <asp:Literal ID="LitnumArt" runat="server" Text="0"></asp:Literal>
+                                            Artículos</span>
+
+                                        <a href="Carrito.aspx">Ver Carrito</a>
+                                    </div>
+                                    <!-- End .dropdown-cart-header -->
+                                    <div class="dropdown-cart-products">
+
+                                        <asp:Repeater ID="RepetidorCarrito" runat="server">
+                                            <ItemTemplate>
+
+                                                <div class="product">
+                                                    <div class="product-details">
+                                                        <h4 class="product-title">
+                                                            <a><%# Eval("Nombre") %></a>
+                                                        </h4>
+
+                                                        <span class="cart-product-info">
+                                                            <span class="cart-product-qty"><%# Eval("Cantidad") %></span>
+                                                            x <%# String.Format("{0:C}",Eval("Precio")) %>
+                                                        </span>
+                                                    </div>
+                                                    <!-- End .product-details -->
+
+                                                    <figure class="product-image-container">
+                                                        <a class="product-image">
+                                                            <img src="<%# Eval("Imagen") %>" alt="product">
+                                                        </a>
+                                                        <%--  <a href="#" class="btn-remove" title="Remove Product"><i class="icon-cancel"></i></a>--%>
+                                                    </figure>
+                                                </div>
+                                                <!-- End .product -->
+
+
+                                            </ItemTemplate>
+
+                                        </asp:Repeater>
+
+
+
+
+                                    </div>
+                                    <!-- End .cart-product -->
+
+                                    <div class="dropdown-cart-total">
+                                        <span>Total</span>
+
+                                        <span class="cart-total-price">$<asp:Literal ID="LiteralTotal" runat="server" Text="0.00"></asp:Literal></span>
+                                    </div>
+                                    <!-- End .dropdown-cart-total -->
+
+                                    <div class="dropdown-cart-action">
+                                        <a href="Envio.aspx" class="btn btn-block">Finalizar Compra</a>
+                                    </div>
+                                    <!-- End .dropdown-cart-total -->
+                                </div>
+                                <!-- End .dropdownmenu-wrapper -->
+                            </div>
+                            <!-- End .dropdown-menu -->
+                        </div>
+                        <!-- End .dropdown -->
+                    </div>
+                    <!-- End .header-right -->
+                </div>
+                <!-- End .container -->
+            </div>
+            <!-- End .header-middle -->
+
+            <div class="header-bottom sticky-header">
+                <div class="container">
+                    <nav class="main-nav">
+                        <ul class="menu sf-arrows">
+                            <li class="active"><a href="Default">Inicio</a></li>
+                            <li><a href="Categoria?cat=LICORES">Licores<span class="tip tip-hot">PROMOS!</span></a></li>
+                            <li><a href="Categoria?cat=TOP">Favoritos</a></li>
+                            <li><a href="Categoria?cat=BOTELLAS">Botellas</a></li>
+                            <li><a href="Categoria?cat=CERVEZA">Cerveza</a></li>
+                            <li><a href="Categoria?cat=MEZCLAS">Mezclas</a></li>
+                            <li><a href="Categoria?cat=EXTRAS">Extras</a></li>
+
+                            <li class="float-right" runat="server" id="linkLogOut" visible="false"><a href="#" onclick="ConfirmLogout()">Cerrar sesión</a></li>
+                            <li class="float-right" runat="server" id="linkCuenta" visible="false"><a href="Cuenta">Mi cuenta</a></li>
+                            <%--<asp:Button ID="ButtonCerrar" runat="server" CssClass="float-right" Text="Prueba"/>--%>
+                            <li class="float-right" runat="server" id="linkIniciarSesion" visible="false"><a href="Login.aspx">Iniciar Sesión</a></li>
+
+                        </ul>
+                    </nav>
+                </div>
+                <!-- End .header-bottom -->
+            </div>
+            <!-- End .header-bottom -->
+        </header>
+        <!-- End .header -->
+
+        <form runat="server" id="Formmm">
+
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </form>
+        <footer class="footer">
+            <div class="footer-middle">
+                <div class="container">
+
+                    <!-- End .footer-ribbon -->
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <div class="widget">
+                                <h4 class="widget-title">Contáctanos</h4>
+                                <ul class="contact-info">
+                                    <li>
+                                        <span class="contact-info-label">Dirección:</span>Blvd. Independencia #698 OTE, Col. Centro, 27000 Torreón, Coah.
+                                    </li>
+                                    <li>
+                                        <span class="contact-info-label">Teléfono:</span><a href="tel:">871 124 2526</a>
+                                    </li>
+                                    <li>
+                                        <span class="contact-info-label">Email:</span> <a href="mailto:mail@example.com">info@elchalan.mx</a>
+                                    </li>
+                                    <li>
+                                        <span class="contact-info-label">Horario de atención:</span>
+                                        Lunes - Miércoles / 11:00AM - 21:00PM<br>
+                                        Jueves / 11:00AM - 22:00PM<br>
+                                        Viernes - Sábado / 11:00AM - 23:00PM<br>
+                                        Domingo / 11:00AM - 14:00PM
+                                    </li>
+                                </ul>
+                                <div class="social-icons">
+                                    <a href="https://www.facebook.com/elchalanlicores/" class="social-icon" target="_blank"><i class="icon-facebook"></i></a>
+
+                                </div>
+                                <!-- End .social-icons -->
+                            </div>
+                            <!-- End .widget -->
+                        </div>
+                        <!-- End .col-lg-3 -->
+
+                        <div class="col-lg-9">
+
+
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="widget">
+                                        <h4 class="widget-title">Categorías</h4>
+
+                                        <div class="row">
+                                            <div class="col-sm-6 col-md-5">
+                                                <ul class="links">
+
+                                                    <li><a href="Categoria?cat=LICORES">Licores<span class="tip tip-hot">PROMOS!</span></a></li>
+                                                    <li><a href="Categoria?cat=TOP">Favoritos</a></li>
+                                                    <li><a href="Categoria?cat=BOTELLAS">Botellas</a></li>
+                                                    <li><a href="Categoria?cat=CERVEZA">Cerveza</a></li>
+                                                    <li><a href="Categoria?cat=MEZCLAS">Mezclas</a></li>
+                                                    <li><a href="Categoria?cat=EXTRAS">Extras</a></li>
+                                                    <li><a href="Cuenta">Mi Cuenta</a></li>
+
+                                                </ul>
+                                            </div>
+                                            <!-- End .col-sm-6 -->
+
+                                            <!-- End .col-sm-6 -->
+                                        </div>
+                                        <!-- End .row -->
+                                    </div>
+                                    <!-- End .widget -->
+                                </div>
+                                <!-- End .col-md-5 -->
+
+                                <div class="col-md-7">
+                                    <div class="widget">
+                                        <h4 class="widget-title">TU CUENTA</h4>
+
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <ul class="links">
+                                                    <li><a href="Login">Iniciar Sesión</a></li>
+                                                    <li><a href="Login">Crear una cuenta</a></li>
+                                                    <li><a href="Cuenta">Mi Cuenta</a></li>
+                                                </ul>
+                                            </div>
+                                            <!-- End .col-sm-6 -->
+
+                                            <!-- End .col-sm-6 -->
+                                        </div>
+                                        <!-- End .row -->
+                                    </div>
+                                    <!-- End .widget -->
+                                </div>
+                                <!-- End .col-md-7 -->
+                            </div>
+                            <!-- End .row -->
+                        </div>
+                        <!-- End .col-lg-9 -->
+                    </div>
+                    <!-- End .row -->
+                </div>
+                <!-- End .container -->
+            </div>
+            <!-- End .footer-middle -->
+
+            <div class="container">
+                <div class="footer-bottom">
+                    <p class="footer-copyright">El Chalán Licores. &copy;  2020.  Todos los derechos reservados.</p>
+
+                    <img src="assets/images/payments.png" alt="payment methods" class="footer-payments">
+                </div>
+                <!-- End .footer-bottom -->
+            </div>
+            <!-- End .container -->
+        </footer>
+        <!-- End .footer -->
+    </div>
+    <!-- End .page-wrapper -->
+
+    <div class="mobile-menu-overlay"></div>
+    <!-- End .mobil-menu-overlay -->
+
+    <div class="mobile-menu-container">
+        <div class="mobile-menu-wrapper">
+            <span class="mobile-menu-close"><i class="icon-cancel"></i></span>
+            <nav class="mobile-nav">
+                <ul class="mobile-menu">
+                    <li class="active"><a href="Default">Inicio</a></li>
+                    <li><a href="Categoria?cat=LICORES">Licores<span class="tip tip-hot">PROMOS!</span></a></li>
+                    <li><a href="Categoria?cat=TOP">Favoritos</a></li>
+                    <li><a href="Categoria?cat=BOTELLAS">Botellas</a></li>
+                    <li><a href="Categoria?cat=CERVEZA">Cerveza</a></li>
+                    <li><a href="Categoria?cat=MEZCLAS">Mezclas</a></li>
+                    <li><a href="Categoria?cat=EXTRAS">Extras</a></li>
+
+                </ul>
+            </nav>
+            <!-- End .mobile-nav -->
+
+            <%--         <div class="social-icons">
+                <a href="#" class="social-icon" target="_blank"><i class="icon-facebook"></i></a>
+                <a href="#" class="social-icon" target="_blank"><i class="icon-twitter"></i></a>
+                <a href="#" class="social-icon" target="_blank"><i class="icon-instagram"></i></a>
+            </div>--%>
+            <!-- End .social-icons -->
+        </div>
+        <!-- End .mobile-menu-wrapper -->
+    </div>
+    <!-- End .mobile-menu-container -->
+
+
+    <!-- Add Cart Modal -->
+    <div class="modal fade" id="addCartModal" tabindex="-1" role="dialog" aria-labelledby="addCartModal" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body add-cart-box text-center">
+                    <p>
+                        Producto agregado al<br>
+                        carrito:
+                    </p>
+                    <h4 id="productTitle"></h4>
+                    <img src="" id="productImage" width="100" height="100" alt="adding cart image">
+                    <div class="btn-actions">
+                        <a href="cart.html">
+                            <button class="btn-primary">Ir a Carrito</button></a>
+                        <a href="#">
+                            <button class="btn-primary" data-dismiss="modal">Continuar Comprando</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a id="scroll-top" href="#top" title="Top" role="button"><i class="icon-angle-up"></i></a>
+
+    <!-- Plugins JS File -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/plugins.min.js"></script>
+    <script src="//rawgit.com/notifyjs/notifyjs/master/dist/notify.js"></script>
+    <!-- Main JS File -->
+    <script src="assets/js/main.min.js"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            if (window.location.href.indexOf("CarritoVacio") > -1) {
+                $.notify("Tu carrito está vacío, agrega uno o más productos a tu lista.", "success");
+            }
+            if (window.location.href.indexOf("logged") > -1) {
+                $.notify("Has iniciado sesión con tu cuenta.", "success");
+            }
+
+            if (window.location.href.indexOf("loggnot") > -1) {
+                $.notify("Usuario o contraseña incorrecto.", "error");
+            }
+
+            if (window.location.href.indexOf("notsession") > -1) {
+                $.notify("Debes iniciar sesión para completar el proceso.", "warn");
+            }
+
+            if (window.location.href.indexOf("notpass") > -1) {
+                $.notify("Las contraseñas deben coincidir.", "error");
+            }
+
+            if (window.location.href.indexOf("registro") > -1) {
+                $.notify("¡Haz sido registrado!.", "success");
+            }
+
+            if (window.location.href.indexOf("notreg") > -1) {
+                $.notify("Registro no realizado.", "error");
+            }
+
+            if (window.location.href.indexOf("cuenta") > -1) {
+                $.notify("Datos actualizados.", "success");
+            }
+
+            if (window.location.href.indexOf("notupdate") > -1) {
+                $.notify("No se llevo a cabo la actualización.", "error");
+            }
+
+            if (window.location.href.indexOf("Compra") > -1) {
+                $.notify("Se llevó a cabo la compra.", "success");
+            }
+
+            if (window.location.href.indexOf("PurchaseError") > -1) {
+                $.notify("No se llevó a cabo la compra.", "error");
+            }
+
+            if (window.location.href.indexOf("nosession") > -1) {
+                $.notify("No haz iniciado sesión.", "error");
+            }
+
+            if (window.location.href.indexOf("UpdateDir") > -1) {
+                $.notify("¡Se ha actualizado tu dirección!.", "success");
+            }
+
+            if (window.location.href.indexOf("AltaDir") > -1) {
+                $.notify("¡Se ha agregado tu dirección!.", "success");
+            }
+
+            if (window.location.href.indexOf("NotDir") > -1) {
+                $.notify("¡Ocurrió un problema! Inténtalo más tarde.", "error");
+            }
+
+            if (window.location.href.indexOf("Logout") > -1) {
+                $.notify("Haz cerrado sesión.", "success");
+            }
+
+            if (window.location.href.indexOf("CardError") > -1) {
+                $.notify("¡Ocurrió un problema! Verifica tus datos o inténtalo más tarde.", "error");
+            }
+
+            if (window.location.href.indexOf("CardSuccess") > -1) {
+                $.notify("¡Tu tarjeta ha sido agregada!", "success");
+            }
+
+            if (window.location.href.indexOf("CardDel") > -1) {
+                $.notify("¡Tu tarjeta ha sido eliminada!", "success");
+            }
+
+            if (window.location.href.indexOf("ErrorCompra") > -1) {
+                $.notify("Ocurrió un problema. Intenta más tarde.", "success");
+            }
+
+            if (window.location.href.indexOf("OpenOrder") > -1) {
+                $.notify("Ya cuentas con un pedido abierto.", "warn");
+            }
+
+            if (window.location.href.indexOf("NoOpOrder") > -1) {
+                $.notify("No cuentas con un pedido abierto.", "success");
+            }
+
+            if (window.location.href.indexOf("OrderCanceled") > -1) {
+                $.notify("Tu pedido ha sido cancelado.", "success");
+            }
+
+            if (window.location.href.indexOf("EmptyCard") > -1) {
+                $.notify("Carrito vacío.", "success");
+            }
+
+            if (window.location.href.indexOf("UwBvAGwAbw") > -1) {
+                $.notify("Solo puedes realizar pedidos dentro de Torreón.", "warn");
+            }
+
+            if (window.location.href.indexOf("RQBsACAAYw") > -1) {
+                $.notify("El costo mínimo del carrito debe ser mayor a 200 pesos.", "warn");
+            }
+
+            if (window.location.href.indexOf("SABPAFIAQQ") > -1) {
+                $.notify("Fuera de horario de atención. Favor de revisar nuestros horarios.", "warn");
+            }
+
+            if (window.location.href.indexOf("MQBQAGUAZA") > -1) {
+                $.notify("Pedido no creado. Sin productos.", "warn");
+            }
+
+            if (window.location.href.indexOf("MgBQAGUAZA") > -1) {
+                $.notify("Pedido no creado.", "warn");
+            }
+
+            if (window.location.href.indexOf("TgBvACAAcw") > -1) {
+                $.notify("No se logró realizar el cargo.", "warn");
+            }
+
+
+            //TARJETAS
+            if (window.location.href.indexOf("MQAwADAAMAA=") > -1) {
+                $.notify("Ocurrió un error interno.", "warn");
+            }
+
+            if (window.location.href.indexOf("MgAwADAANAA=") > -1) {
+                $.notify("El dígito de verificación del número de tarjeta no es válido.", "warn");
+            }
+
+            if (window.location.href.indexOf("MgAwADAANQA=") > -1) {
+                $.notify("La fecha de expiración de la tarjeta es anterior a la fecha actual.", "warn");
+            }
+
+            if (window.location.href.indexOf("MgAwADAANgA=") > -1) {
+                $.notify("El código de seguridad de la tarjeta (CVV2) no fue proporcionado.", "warn");
+            }
+
+            if (window.location.href.indexOf("MgAwADAAOQA=") > -1) {
+                $.notify("El código de seguridad de la tarjeta (CVV2) no es válido.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADAAMQA=") > -1) {
+                $.notify("La tarjeta fue declinada.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADAAMgA=") > -1) {
+                $.notify("La tarjeta ha expirado.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADAAMwA=") > -1) {
+                $.notify("La tarjeta no tiene fondos suficientes.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADAANAA=") > -1) {
+                $.notify("La tarjeta ha sido identificada como una tarjeta robada.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADAANQA=") > -1) {
+                $.notify("La tarjeta ha sido identificada como una tarjeta fraudulenta.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADAAOAA=") > -1) {
+                $.notify("La tarjeta no es soportada en transacciones en línea.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADAAOQA=") > -1) {
+                $.notify("La tarjeta fue reportada como perdida.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADEAMAA=") > -1) {
+                $.notify("El banco ha restringido la tarjeta.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADEAMQA=") > -1) {
+                $.notify("El banco ha solicitado que la tarjeta sea retenida. Contacte al banco.", "warn");
+            }
+
+            if (window.location.href.indexOf("MwAwADEAMgA=") > -1) {
+                $.notify("Se requiere solicitar al banco autorización para realizar este pago.", "warn");
+            }
+
+            if (window.location.href.indexOf("TwBjAHUAcgBy") > -1) {
+                $.notify("Ocurrió un problema. Inténtalo mas tarde.", "warn");
+            }
+
+        });
+    </script>
+
+    <script type='text/javascript'>
+
+        $(document).on("click", ".btn-outline-secondary", function () {
+            //var buttonpicado = this;
+            //var idderepeater = buttonpicado.id;
+
+            //hiddenvalue.value = iddrepeater;
+            var parensillo = $(this).parent('div');
+            //parensillo.id
+            parensillo.parent('div').siblings('div').removeClass('active');
+
+            parensillo.parent('div').addClass('active');
+
+            var ids = [];
+
+            var radios = $("input[id*='DireccionAEnviar']");
+            //for (var i = 0; i < radios.length; i++) {
+            //    //ids.push(parseInt(radios[i].value));
+            //    alert(radios[i].value);
+            //}
+
+            var x = document.getElementsByClassName("shipping-address-box active");
+            var hijos = x[0].childNodes;
+            //alert(hijos.length);
+
+            //for (var j = 0; j < hijos.length; j++) {
+            //    alert(hijos[3].value);
+            //    break;
+            //}
+
+            var coinciden = 0;
+
+            for (var c = 0; c < radios.length; c++) {
+                if (radios[c].value == hijos[3].value) {
+                    coinciden = parseInt(radios[c].value);
+                    //alert("Simon, coinciden en: " + radios[c].value);
+                    //alert("Buscar: " + coinciden);
+                    break;
+                }
+            }
+
+            for (var g = 0; g < radios.length; g++) {
+                if (radios[g].value == coinciden) {
+                    //alert("Coincicendia en valor: " + coinciden + " y en radioButton: " + radios[g].value);
+                    radios[g].checked = true;
+                    break;
+                }
+            }
+
+            return false;
+        });
+    </script>
+
+    <script type='text/javascript'>
+        $(document).on("click", ".btn-outline", function () {
+            //var buttonpicado = this;
+            //var idderepeater = buttonpicado.id;
+
+            //hiddenvalue.value = iddrepeater;
+            var parensillo = $(this).parent('div');
+            //parensillo.id
+            parensillo.parent('div').siblings('div').removeClass('active');
+
+            parensillo.parent('div').addClass('active');
+
+            var radios = $("input[id*='TarjetaSeleccionada']");
+            //for (var i = 0; i < radios.length; i++) {
+            //    //ids.push(parseInt(radios[i].value));
+            //    alert(radios[i].value);
+            //}
+
+            var x = document.getElementsByClassName("btn-outline");
+            //var hijos = x[0].childNodes;
+            //alert(x.length);
+
+            //for (var j = 0; j < x.length; j++) {
+            //    alert(x[j].id);
+            //    break;
+            //}
+
+            var coinciden;
+
+            for (var c = 0; c < radios.length; c++) {
+                if (radios[c].value == x[c].id) {
+                    coinciden = radios[c].value;
+                    //alert("Simon, coinciden en: " + radios[c].value);
+                    //alert("Buscar: " + coinciden);
+                    break;
+                }
+            }
+
+            for (var g = 0; g < radios.length; g++) {
+                if (radios[g].value == coinciden) {
+                    //alert("Coincicendia en valor: " + coinciden + " y en radioButton: " + radios[g].value);
+                    radios[g].checked = true;
+                    break;
+                }
+            }
+
+            return false;
+        });
+    </script>
+
+    <%--<script>
+        $(document).ready(function () {
+            var radios = $("input[id*='DireccionAEnviar']");
+            radios[0].checked = true;
+        });
+    </script>--%>
+
+    <%--    <script type='text/javascript'>
+        $(document).on("click", ".bootstrap-touchspin", function () {
+
+            $('.bootstrap-touchspin-up').click(function (event) {
+                alert('up');
+            });
+
+            $('.bootstrap-touchspin-down').click(function (event) {
+                alert('down');
+            });
+        });
+
+    </script>--%>
+
+    <%--    <script type='text/javascript'>
+        $(document).on("click", ".bootstrap-touchspin-down", function () {
+            alert('down');
+        });
+    </script>
+
+    <script type='text/javascript'>
+        $(document).on("click", ".bootstrap-touchspin-up", function () {
+            alert('up');
+        });
+    </script>--%>
+
+    <script>
+        $(document).ready(function () {
+            $("input[id*='Cantidad']").on("change", function () {
+                var allTextBoxes = $("input[id*='Cantidad']");
+                var allPrecios = $("[id*='PrecioProducto']");
+                var allSubtotales = $("[id*='SubTotal']");
+                var SubTotal = $("[id*='SubTotal']");
+
+
+
+                //var y = 0;
+                //var allText = $("td[id*='SubTotal']").find('');
+                //for (var i = 0; i < allText.length; i++) {
+                //    //alert(allTextBoxes[i].value);
+                //    y += parseInt(allText[i].innerHTML);
+                //}
+                //alert(y);
+
+                var cambiar = true;
+                var suma = 0;
+                for (var i = 0; i < allTextBoxes.length; i++) {
+                    if ((parseInt(allPrecios[i].innerHTML) * parseInt(allTextBoxes[i].value)) != parseInt(allSubtotales[i].innerHTML) && cambiar) {
+                        var x = parseInt(allPrecios[i].innerHTML) * parseInt(allTextBoxes[i].value);
+                        $(".replaceme").eq(i).html(x.toFixed(2));
+                        cambiar = false;
+                        //alert(x);
+
+                        //$(".replaceme").html(parseInt(allPrecios[i].innerHTML) * parseInt(allTextBoxes[i]));
+                        //break;
+                    }
+
+                    //alert("Entrada # " + i + ": " + allTextBoxes[i].value);
+                    //alert("Precio #" + i + ": " + parseInt(allPrecios[i].innerHTML));
+                    //alert("Subtotal #" + i + ": " + allSubtotales[i].innerHTML);
+
+                    //suma += parseInt(allTextBoxes[i].value);
+                }
+
+                for (var i = 0; i < allSubtotales.length; i++) {
+                    suma += parseInt(allSubtotales[i].innerHTML);
+                }
+                //alert(suma);
+                $(".replaceSubTotal").html(suma.toFixed(2).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+                suma += 29;
+                
+                //console.log(suma.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+                var nose = suma.toFixed(2);
+                
+                //alert(nose.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+                //$(".replaceSubTotal").html(nose.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+                $(".replaceTotal").html(nose.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+                //$(".replaceSubTotal").eq(i).html(suma.toFixed(2));
+                //$(".replaceTotal").eq(i).html(suma.toFixed(2));
+
+                //for (var i = 0; i < allTextBoxes.length; i++)
+                //    alert("Subtotal #" + i + ": " + allSubtotales[i].innerHTML);
+                //alert(suma);
+
+                //var x = $('.precio').html();
+                //var precio = parseInt(x);
+                ////alert(precio);
+                //$(".replaceme").html(suma*precio);
+
+                //var x = $(this).val();
+            });
+        });
+    </script>
+
+    <script>
+        $(function () {
+            $('#cardNumber').validateCreditCard(function (result) {
+                var tarjeta = result.card_type == null ? "-" : result.card_type.name + '<br>Valid: ' + result.valid
+                    + '<br>Length valid: ' + result.length_valid
+                    + '<br>Luhn valid: ' + result.luhn_valid;
+                alert(tarjeta);
+            });
+        });
+    </script>
+
+
+    <%--        <script>
+        $(document).ready(function () {
+            var allTextBoxes = $("input[id*='Cantidad']");
+            for (var i = 0; i < allTextBoxes.length; i++) {
+                alert(allTextBoxes[i].value);
+            }
+        });
+    </script>--%>
+
+
+    <%--        <script type='text/javascript'>
+
+        $(document).on("click", ".form-control", function () {
+            //var buttonpicado = this;
+            //var idderepeater = buttonpicado.id;
+
+            //hiddenvalue.value = iddrepeater;
+            var parensillo = $(this).parent('div');
+            parensillo.parent('div').siblings('div').removeClass('active');
+            parensillo.parent('div').addClass('active');
+            return false;
+        });
+    </script>--%>
+</body>
+</html>
